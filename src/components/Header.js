@@ -41,9 +41,7 @@ const Header = (props) => {
             <Banner>
             <LinkBox>
                 <Links href="https://www.nasa.gov/">Home</Links>
-                <Links href="https://www.nasa.gov/">More</Links>
-                <Links href="https://www.nasa.gov/">Other</Links>
-                <Links href="https://www.nasa.gov/">About</Links>
+               
             </LinkBox>
             </Banner>
                 <p>{props.title}</p>
