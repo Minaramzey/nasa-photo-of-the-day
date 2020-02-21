@@ -6,6 +6,7 @@
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
+  
 }
 
 .App-header {
@@ -23,6 +24,19 @@
   color: #61dafb;
 }
 
+body{
+  background-image: url(https://images.unsplash.com/photo-1447433693259-c8549e937d62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=777&q=80);
+}
+
+p{
+  color: white;
+  font-size: 150%;
+  
+
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -31,3 +45,7 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
